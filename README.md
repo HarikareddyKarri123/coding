@@ -37,4 +37,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/HarikareddyKarri123/coding/tree/master/0171-excel-sheet-column-number) |
+## Database
+|  |
+| ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/HarikareddyKarri123/coding/tree/master/0181-employees-earning-more-than-their-managers) |
 <!---LeetCode Topics End-->
