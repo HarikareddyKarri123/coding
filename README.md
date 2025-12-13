@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarikareddyKarri123/coding/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/HarikareddyKarri123/coding/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/HarikareddyKarri123/coding/tree/master/0191-number-of-1-bits) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/HarikareddyKarri123/coding/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
