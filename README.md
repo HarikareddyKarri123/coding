@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarikareddyKarri123/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/HarikareddyKarri123/coding/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0205-isomorphic-strings) |
 ## Linked List
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/HarikareddyKarri123/coding/tree/master/0171-excel-sheet-column-number) |
+| [0205-isomorphic-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0205-isomorphic-strings) |
 ## Database
 |  |
 | ------- |
