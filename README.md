@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarikareddyKarri123/coding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/HarikareddyKarri123/coding/tree/master/0225-implement-stack-using-queues) |
 ## Tree
 |  |
 | ------- |
@@ -87,4 +88,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/HarikareddyKarri123/coding/tree/master/0222-count-complete-tree-nodes) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/HarikareddyKarri123/coding/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/HarikareddyKarri123/coding/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
