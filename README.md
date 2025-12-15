@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarikareddyKarri123/coding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/HarikareddyKarri123/coding/tree/master/0222-count-complete-tree-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarikareddyKarri123/coding/tree/master/0144-binary-tree-preorder-traversal) |
+| [0222-count-complete-tree-nodes](https://github.com/HarikareddyKarri123/coding/tree/master/0222-count-complete-tree-nodes) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/HarikareddyKarri123/coding/tree/master/0191-number-of-1-bits) |
+| [0222-count-complete-tree-nodes](https://github.com/HarikareddyKarri123/coding/tree/master/0222-count-complete-tree-nodes) |
 ## Recursion
 |  |
 | ------- |
@@ -80,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/HarikareddyKarri123/coding/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/HarikareddyKarri123/coding/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
