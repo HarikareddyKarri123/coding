@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0171-excel-sheet-column-number](https://github.com/HarikareddyKarri123/coding/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/HarikareddyKarri123/coding/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/HarikareddyKarri123/coding/tree/master/0231-power-of-two) |
 ## String
 |  |
 | ------- |
@@ -69,11 +70,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/HarikareddyKarri123/coding/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/HarikareddyKarri123/coding/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/HarikareddyKarri123/coding/tree/master/0231-power-of-two) |
 ## Recursion
 |  |
 | ------- |
 | [0203-remove-linked-list-elements](https://github.com/HarikareddyKarri123/coding/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/HarikareddyKarri123/coding/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/HarikareddyKarri123/coding/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
