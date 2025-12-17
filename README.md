@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HarikareddyKarri123/coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HarikareddyKarri123/coding/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/HarikareddyKarri123/coding/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/HarikareddyKarri123/coding/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/HarikareddyKarri123/coding/tree/master/0231-power-of-two) |
 | [0263-ugly-number](https://github.com/HarikareddyKarri123/coding/tree/master/0263-ugly-number) |
+| [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/HarikareddyKarri123/coding/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/HarikareddyKarri123/coding/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/HarikareddyKarri123/coding/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -95,11 +98,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/HarikareddyKarri123/coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HarikareddyKarri123/coding/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/HarikareddyKarri123/coding/tree/master/0228-summary-ranges) |
+| [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/HarikareddyKarri123/coding/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/HarikareddyKarri123/coding/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 ## Sliding Window
 |  |
 | ------- |
@@ -108,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/HarikareddyKarri123/coding/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 ## Design
 |  |
 | ------- |
