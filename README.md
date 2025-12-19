@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarikareddyKarri123/coding/tree/master/0005-longest-palindromic-substring) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarikareddyKarri123/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/HarikareddyKarri123/coding/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HarikareddyKarri123/coding/tree/master/0234-palindrome-linked-list) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarikareddyKarri123/coding/tree/master/0005-longest-palindromic-substring) |
 | [0171-excel-sheet-column-number](https://github.com/HarikareddyKarri123/coding/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarikareddyKarri123/coding/tree/master/0242-valid-anagram) |
@@ -154,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HarikareddyKarri123/coding/tree/master/0303-range-sum-query-immutable) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/HarikareddyKarri123/coding/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
