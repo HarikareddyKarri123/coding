@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/HarikareddyKarri123/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/HarikareddyKarri123/coding/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HarikareddyKarri123/coding/tree/master/0234-palindrome-linked-list) |
+| [0344-reverse-string](https://github.com/HarikareddyKarri123/coding/tree/master/0344-reverse-string) |
 ## Math
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarikareddyKarri123/coding/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/HarikareddyKarri123/coding/tree/master/0257-binary-tree-paths) |
+| [0344-reverse-string](https://github.com/HarikareddyKarri123/coding/tree/master/0344-reverse-string) |
 ## Database
 |  |
 | ------- |
