@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0191-number-of-1-bits](https://github.com/HarikareddyKarri123/coding/tree/master/0191-number-of-1-bits) |
 ## Bit Manipulation
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0217-contains-duplicate](https://github.com/HarikareddyKarri123/coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HarikareddyKarri123/coding/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/HarikareddyKarri123/coding/tree/master/0228-summary-ranges) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0004-median-of-two-sorted-arrays) |
 | [0222-count-complete-tree-nodes](https://github.com/HarikareddyKarri123/coding/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/HarikareddyKarri123/coding/tree/master/0278-first-bad-version) |
