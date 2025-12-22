@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarikareddyKarri123/coding/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/HarikareddyKarri123/coding/tree/master/0006-zigzag-conversion) |
+| [0008-string-to-integer-atoi](https://github.com/HarikareddyKarri123/coding/tree/master/0008-string-to-integer-atoi) |
 | [0171-excel-sheet-column-number](https://github.com/HarikareddyKarri123/coding/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarikareddyKarri123/coding/tree/master/0242-valid-anagram) |
