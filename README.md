@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarikareddyKarri123/coding/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/HarikareddyKarri123/coding/tree/master/0011-container-with-most-water) |
 | [0160-intersection-of-two-linked-lists](https://github.com/HarikareddyKarri123/coding/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/HarikareddyKarri123/coding/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/HarikareddyKarri123/coding/tree/master/0234-palindrome-linked-list) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/HarikareddyKarri123/coding/tree/master/0011-container-with-most-water) |
 | [0217-contains-duplicate](https://github.com/HarikareddyKarri123/coding/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/HarikareddyKarri123/coding/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/HarikareddyKarri123/coding/tree/master/0228-summary-ranges) |
@@ -180,4 +182,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/HarikareddyKarri123/coding/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HarikareddyKarri123/coding/tree/master/0010-regular-expression-matching) |
 | [0338-counting-bits](https://github.com/HarikareddyKarri123/coding/tree/master/0338-counting-bits) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/HarikareddyKarri123/coding/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
