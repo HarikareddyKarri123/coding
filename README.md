@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/HarikareddyKarri123/coding/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0349-intersection-of-two-arrays) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/HarikareddyKarri123/coding/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sorting
 |  |
 | ------- |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HarikareddyKarri123/coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0349-intersection-of-two-arrays) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/HarikareddyKarri123/coding/tree/master/3075-maximize-happiness-of-selected-children) |
 ## Sliding Window
 |  |
 | ------- |
@@ -192,4 +194,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarikareddyKarri123/coding/tree/master/0011-container-with-most-water) |
+| [3075-maximize-happiness-of-selected-children](https://github.com/HarikareddyKarri123/coding/tree/master/3075-maximize-happiness-of-selected-children) |
 <!---LeetCode Topics End-->
