@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/HarikareddyKarri123/coding/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/HarikareddyKarri123/coding/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/HarikareddyKarri123/coding/tree/master/0012-integer-to-roman) |
+| [0022-generate-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/0022-generate-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/HarikareddyKarri123/coding/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarikareddyKarri123/coding/tree/master/0242-valid-anagram) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/0022-generate-parentheses) |
 | [0257-binary-tree-paths](https://github.com/HarikareddyKarri123/coding/tree/master/0257-binary-tree-paths) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 ## Interactive
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/HarikareddyKarri123/coding/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HarikareddyKarri123/coding/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/0022-generate-parentheses) |
 | [0338-counting-bits](https://github.com/HarikareddyKarri123/coding/tree/master/0338-counting-bits) |
 ## Greedy
 |  |
