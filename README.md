@@ -185,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/HarikareddyKarri123/coding/tree/master/0278-first-bad-version) |
 | [0349-intersection-of-two-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/HarikareddyKarri123/coding/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/HarikareddyKarri123/coding/tree/master/0374-guess-number-higher-or-lower) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 ## Design
 |  |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/HarikareddyKarri123/coding/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/HarikareddyKarri123/coding/tree/master/0374-guess-number-higher-or-lower) |
 ## Brainteaser
 |  |
 | ------- |
