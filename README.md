@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/HarikareddyKarri123/coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/HarikareddyKarri123/coding/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/HarikareddyKarri123/coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0387-first-unique-character-in-a-string) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 ## Database
 |  |
@@ -200,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/HarikareddyKarri123/coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarikareddyKarri123/coding/tree/master/0232-implement-queue-using-stacks) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0387-first-unique-character-in-a-string) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -259,4 +262,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/HarikareddyKarri123/coding/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
