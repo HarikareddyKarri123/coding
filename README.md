@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HarikareddyKarri123/coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0349-intersection-of-two-arrays) |
+| [0383-ransom-note](https://github.com/HarikareddyKarri123/coding/tree/master/0383-ransom-note) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/HarikareddyKarri123/coding/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/HarikareddyKarri123/coding/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0345-reverse-vowels-of-a-string) |
+| [0383-ransom-note](https://github.com/HarikareddyKarri123/coding/tree/master/0383-ransom-note) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 ## Database
 |  |
@@ -253,4 +255,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+## Counting
+|  |
+| ------- |
+| [0383-ransom-note](https://github.com/HarikareddyKarri123/coding/tree/master/0383-ransom-note) |
 <!---LeetCode Topics End-->
