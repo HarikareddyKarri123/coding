@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/HarikareddyKarri123/coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/HarikareddyKarri123/coding/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/HarikareddyKarri123/coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0387-first-unique-character-in-a-string) |
+| [0389-find-the-difference](https://github.com/HarikareddyKarri123/coding/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 ## Database
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/HarikareddyKarri123/coding/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/HarikareddyKarri123/coding/tree/master/0338-counting-bits) |
+| [0389-find-the-difference](https://github.com/HarikareddyKarri123/coding/tree/master/0389-find-the-difference) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 ## Recursion
 |  |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/HarikareddyKarri123/coding/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/HarikareddyKarri123/coding/tree/master/0389-find-the-difference) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarikareddyKarri123/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HarikareddyKarri123/coding/tree/master/3075-maximize-happiness-of-selected-children) |
