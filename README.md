@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/HarikareddyKarri123/coding/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/HarikareddyKarri123/coding/tree/master/0409-longest-palindrome) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
+| [0771-jewels-and-stones](https://github.com/HarikareddyKarri123/coding/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/HarikareddyKarri123/coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0415-add-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
+| [0771-jewels-and-stones](https://github.com/HarikareddyKarri123/coding/tree/master/0771-jewels-and-stones) |
 ## Database
 |  |
 | ------- |
