@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 | [0771-jewels-and-stones](https://github.com/HarikareddyKarri123/coding/tree/master/0771-jewels-and-stones) |
 | [3612-process-string-with-special-operations-i](https://github.com/HarikareddyKarri123/coding/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3614-process-string-with-special-operations-ii) |
 ## Database
 |  |
 | ------- |
@@ -279,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0415-add-strings) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
 | [3612-process-string-with-special-operations-i](https://github.com/HarikareddyKarri123/coding/tree/master/3612-process-string-with-special-operations-i) |
+| [3614-process-string-with-special-operations-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3614-process-string-with-special-operations-ii) |
 ## Matrix
 |  |
 | ------- |
