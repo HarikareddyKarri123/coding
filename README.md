@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/HarikareddyKarri123/coding/tree/master/0771-jewels-and-stones) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1189-maximum-number-of-balloons](https://github.com/HarikareddyKarri123/coding/tree/master/1189-maximum-number-of-balloons) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
 ## Linked List
 |  |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0415-add-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 | [0771-jewels-and-stones](https://github.com/HarikareddyKarri123/coding/tree/master/0771-jewels-and-stones) |
+| [1189-maximum-number-of-balloons](https://github.com/HarikareddyKarri123/coding/tree/master/1189-maximum-number-of-balloons) |
 | [3612-process-string-with-special-operations-i](https://github.com/HarikareddyKarri123/coding/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3614-process-string-with-special-operations-ii) |
 ## Database
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0383-ransom-note](https://github.com/HarikareddyKarri123/coding/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0387-first-unique-character-in-a-string) |
+| [1189-maximum-number-of-balloons](https://github.com/HarikareddyKarri123/coding/tree/master/1189-maximum-number-of-balloons) |
 ## Counting Sort
 |  |
 | ------- |
