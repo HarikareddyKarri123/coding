@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/HarikareddyKarri123/coding/tree/master/1189-maximum-number-of-balloons) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarikareddyKarri123/coding/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarikareddyKarri123/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-maximum-ice-cream-bars](https://github.com/HarikareddyKarri123/coding/tree/master/1833-maximum-ice-cream-bars) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarikareddyKarri123/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarikareddyKarri123/coding/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HarikareddyKarri123/coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarikareddyKarri123/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -322,4 +324,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarikareddyKarri123/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3739-count-subarrays-with-majority-element-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarikareddyKarri123/coding/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 <!---LeetCode Topics End-->
