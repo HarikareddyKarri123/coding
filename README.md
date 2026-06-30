@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1189-maximum-number-of-balloons](https://github.com/HarikareddyKarri123/coding/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarikareddyKarri123/coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarikareddyKarri123/coding/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarikareddyKarri123/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 | [0771-jewels-and-stones](https://github.com/HarikareddyKarri123/coding/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/HarikareddyKarri123/coding/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarikareddyKarri123/coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarikareddyKarri123/coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [3612-process-string-with-special-operations-i](https://github.com/HarikareddyKarri123/coding/tree/master/3612-process-string-with-special-operations-i) |
 | [3614-process-string-with-special-operations-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3614-process-string-with-special-operations-ii) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/HarikareddyKarri123/coding/tree/master/0219-contains-duplicate-ii) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarikareddyKarri123/coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
