@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarikareddyKarri123/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarikareddyKarri123/coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarikareddyKarri123/coding/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HarikareddyKarri123/coding/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarikareddyKarri123/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/HarikareddyKarri123/coding/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/HarikareddyKarri123/coding/tree/master/0374-guess-number-higher-or-lower) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/0226-invert-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -298,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Simulation
 |  |
 | ------- |
@@ -311,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting
 |  |
 | ------- |
@@ -336,4 +341,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarikareddyKarri123/coding/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->
