@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarikareddyKarri123/coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarikareddyKarri123/coding/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/HarikareddyKarri123/coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarikareddyKarri123/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Linked List
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3020-find-the-maximum-number-of-elements-in-subset](https://github.com/HarikareddyKarri123/coding/tree/master/3020-find-the-maximum-number-of-elements-in-subset) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/HarikareddyKarri123/coding/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/HarikareddyKarri123/coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarikareddyKarri123/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3739-count-subarrays-with-majority-element-ii) |
 ## Sorting
@@ -234,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0374-guess-number-higher-or-lower](https://github.com/HarikareddyKarri123/coding/tree/master/0374-guess-number-higher-or-lower) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/HarikareddyKarri123/coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Design
 |  |
 | ------- |
@@ -345,4 +348,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/HarikareddyKarri123/coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/HarikareddyKarri123/coding/tree/master/3532-path-existence-queries-in-a-graph-i) |
 <!---LeetCode Topics End-->
