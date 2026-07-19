@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/HarikareddyKarri123/coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarikareddyKarri123/coding/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/HarikareddyKarri123/coding/tree/master/0234-palindrome-linked-list) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarikareddyKarri123/coding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Tree
 |  |
 | ------- |
@@ -139,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0415-add-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/HarikareddyKarri123/coding/tree/master/0756-pyramid-transition-matrix) |
 | [0771-jewels-and-stones](https://github.com/HarikareddyKarri123/coding/tree/master/0771-jewels-and-stones) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarikareddyKarri123/coding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1189-maximum-number-of-balloons](https://github.com/HarikareddyKarri123/coding/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/HarikareddyKarri123/coding/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarikareddyKarri123/coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/HarikareddyKarri123/coding/tree/master/0011-container-with-most-water) |
 | [0409-longest-palindrome](https://github.com/HarikareddyKarri123/coding/tree/master/0409-longest-palindrome) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarikareddyKarri123/coding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarikareddyKarri123/coding/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarikareddyKarri123/coding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarikareddyKarri123/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
@@ -395,4 +398,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarikareddyKarri123/coding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
