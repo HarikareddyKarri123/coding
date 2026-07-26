@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/HarikareddyKarri123/coding/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/HarikareddyKarri123/coding/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0415-add-strings) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HarikareddyKarri123/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarikareddyKarri123/coding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -204,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 | [0303-range-sum-query-immutable](https://github.com/HarikareddyKarri123/coding/tree/master/0303-range-sum-query-immutable) |
 | [0349-intersection-of-two-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HarikareddyKarri123/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/HarikareddyKarri123/coding/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/HarikareddyKarri123/coding/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/HarikareddyKarri123/coding/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/HarikareddyKarri123/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/HarikareddyKarri123/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarikareddyKarri123/coding/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarikareddyKarri123/coding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
