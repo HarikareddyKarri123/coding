@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarikareddyKarri123/coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarikareddyKarri123/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/HarikareddyKarri123/coding/tree/master/0877-stone-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarikareddyKarri123/coding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/HarikareddyKarri123/coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarikareddyKarri123/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/HarikareddyKarri123/coding/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/HarikareddyKarri123/coding/tree/master/1331-rank-transform-of-an-array) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0292-nim-game](https://github.com/HarikareddyKarri123/coding/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/HarikareddyKarri123/coding/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/HarikareddyKarri123/coding/tree/master/0877-stone-game) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -335,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/HarikareddyKarri123/coding/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HarikareddyKarri123/coding/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/HarikareddyKarri123/coding/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/HarikareddyKarri123/coding/tree/master/0877-stone-game) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarikareddyKarri123/coding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
