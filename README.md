@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/HarikareddyKarri123/coding/tree/master/0628-maximum-product-of-three-numbers) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/HarikareddyKarri123/coding/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarikareddyKarri123/coding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/HarikareddyKarri123/coding/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/HarikareddyKarri123/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
@@ -333,11 +335,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0292-nim-game](https://github.com/HarikareddyKarri123/coding/tree/master/0292-nim-game) |
 | [0486-predict-the-winner](https://github.com/HarikareddyKarri123/coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarikareddyKarri123/coding/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/HarikareddyKarri123/coding/tree/master/0303-range-sum-query-immutable) |
+| [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/HarikareddyKarri123/coding/tree/master/1732-find-the-highest-altitude) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
@@ -353,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/HarikareddyKarri123/coding/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/HarikareddyKarri123/coding/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/HarikareddyKarri123/coding/tree/master/0877-stone-game) |
+| [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarikareddyKarri123/coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarikareddyKarri123/coding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -456,9 +461,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 <!---LeetCode Topics End-->
