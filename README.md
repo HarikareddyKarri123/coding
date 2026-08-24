@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/HarikareddyKarri123/coding/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/HarikareddyKarri123/coding/tree/master/1927-sum-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarikareddyKarri123/coding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/HarikareddyKarri123/coding/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/HarikareddyKarri123/coding/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/HarikareddyKarri123/coding/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarikareddyKarri123/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarikareddyKarri123/coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
@@ -357,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/HarikareddyKarri123/coding/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/HarikareddyKarri123/coding/tree/master/1927-sum-game) |
 ## Prefix Sum
 |  |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1732-find-the-highest-altitude](https://github.com/HarikareddyKarri123/coding/tree/master/1732-find-the-highest-altitude) |
+| [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarikareddyKarri123/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3739-count-subarrays-with-majority-element-ii) |
@@ -381,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/HarikareddyKarri123/coding/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarikareddyKarri123/coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarikareddyKarri123/coding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -488,9 +493,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
+| [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
 <!---LeetCode Topics End-->
