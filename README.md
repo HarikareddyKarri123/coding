@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HarikareddyKarri123/coding/tree/master/0257-binary-tree-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarikareddyKarri123/coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HarikareddyKarri123/coding/tree/master/0257-binary-tree-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarikareddyKarri123/coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/HarikareddyKarri123/coding/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/HarikareddyKarri123/coding/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
@@ -37,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HarikareddyKarri123/coding/tree/master/0257-binary-tree-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarikareddyKarri123/coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Hash Table
 |  |
 | ------- |
