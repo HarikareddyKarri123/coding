@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0415-add-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0415-add-strings) |
 | [0486-predict-the-winner](https://github.com/HarikareddyKarri123/coding/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/HarikareddyKarri123/coding/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/HarikareddyKarri123/coding/tree/master/0836-rectangle-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [0877-stone-game](https://github.com/HarikareddyKarri123/coding/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
@@ -530,4 +531,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 | [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/HarikareddyKarri123/coding/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
