@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/HarikareddyKarri123/coding/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarikareddyKarri123/coding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/HarikareddyKarri123/coding/tree/master/1927-sum-game) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
@@ -391,6 +392,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/HarikareddyKarri123/coding/tree/master/0303-range-sum-query-immutable) |
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarikareddyKarri123/coding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/HarikareddyKarri123/coding/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
@@ -411,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/HarikareddyKarri123/coding/tree/master/1406-stone-game-iii) |
 | [1563-stone-game-v](https://github.com/HarikareddyKarri123/coding/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarikareddyKarri123/coding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarikareddyKarri123/coding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarikareddyKarri123/coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -518,6 +521,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarikareddyKarri123/coding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
 ## Monotonic Stack
 |  |
