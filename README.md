@@ -282,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/HarikareddyKarri123/coding/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/HarikareddyKarri123/coding/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/HarikareddyKarri123/coding/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarikareddyKarri123/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2402-meeting-rooms-iii](https://github.com/HarikareddyKarri123/coding/tree/master/2402-meeting-rooms-iii) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarikareddyKarri123/coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -444,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1563-stone-game-v](https://github.com/HarikareddyKarri123/coding/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/HarikareddyKarri123/coding/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/HarikareddyKarri123/coding/tree/master/1872-stone-game-viii) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarikareddyKarri123/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/HarikareddyKarri123/coding/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/HarikareddyKarri123/coding/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarikareddyKarri123/coding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -492,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0835-image-overlap](https://github.com/HarikareddyKarri123/coding/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarikareddyKarri123/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Counting
 |  |
@@ -580,4 +583,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarikareddyKarri123/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
