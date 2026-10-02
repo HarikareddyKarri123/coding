@@ -1,22 +1,20 @@
 class Solution:
-    def generateParenthesis(self, n: int):
-        result = []
+    def generateParenthesis(self, n: int) -> list[str]:
+        ans = []
 
-        def backtrack(current, open_count, close_count):
-            # If the string is complete
-            if len(current) == 2 * n:
-                result.append(current)
+        def backtrack(s, open_count, close_count):
+            if open_count == n and close_count == n:
+                ans.append(s)
                 return
 
-            # Add '(' if we still can
+            # We can add '(' if we still have some left
             if open_count < n:
-                backtrack(current + "(", open_count + 1, close_count)
+                backtrack(s + "(", open_count + 1, close_count)
 
-            # Add ')' if it keeps the string valid
+            # We can add ')' only when there is an unmatched '('
             if close_count < open_count:
-                backtrack(current + ")", open_count, close_count + 1)
+                backtrack(s + ")", open_count, close_count + 1)
 
         backtrack("", 0, 0)
-        return result
 
-        
+        return ans
