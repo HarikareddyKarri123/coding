@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/0032-longest-valid-parentheses) |
 | [0144-binary-tree-preorder-traversal](https://github.com/HarikareddyKarri123/coding/tree/master/0144-binary-tree-preorder-traversal) |
 | [0225-implement-stack-using-queues](https://github.com/HarikareddyKarri123/coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarikareddyKarri123/coding/tree/master/0232-implement-queue-using-stacks) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/HarikareddyKarri123/coding/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/HarikareddyKarri123/coding/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/0032-longest-valid-parentheses) |
 | [0171-excel-sheet-column-number](https://github.com/HarikareddyKarri123/coding/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/HarikareddyKarri123/coding/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/HarikareddyKarri123/coding/tree/master/0242-valid-anagram) |
@@ -434,6 +436,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/HarikareddyKarri123/coding/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/HarikareddyKarri123/coding/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/0032-longest-valid-parentheses) |
 | [0338-counting-bits](https://github.com/HarikareddyKarri123/coding/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/HarikareddyKarri123/coding/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/HarikareddyKarri123/coding/tree/master/0486-predict-the-winner) |
@@ -583,6 +586,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/0032-longest-valid-parentheses) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarikareddyKarri123/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
