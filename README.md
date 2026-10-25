@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/HarikareddyKarri123/coding/tree/master/0257-binary-tree-paths) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/HarikareddyKarri123/coding/tree/master/1254-number-of-closed-islands) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/HarikareddyKarri123/coding/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2685-count-the-number-of-complete-components](https://github.com/HarikareddyKarri123/coding/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/HarikareddyKarri123/coding/tree/master/3310-remove-methods-from-project) |
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/HarikareddyKarri123/coding/tree/master/0877-stone-game) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/HarikareddyKarri123/coding/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1140-stone-game-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1140-stone-game-ii) |
+| [1254-number-of-closed-islands](https://github.com/HarikareddyKarri123/coding/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1331-rank-transform-of-an-array](https://github.com/HarikareddyKarri123/coding/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/HarikareddyKarri123/coding/tree/master/1386-cinema-seat-allocation) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/0226-invert-binary-tree) |
 | [1096-brace-expansion-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1096-brace-expansion-ii) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/HarikareddyKarri123/coding/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1254-number-of-closed-islands](https://github.com/HarikareddyKarri123/coding/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/HarikareddyKarri123/coding/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3310-remove-methods-from-project](https://github.com/HarikareddyKarri123/coding/tree/master/3310-remove-methods-from-project) |
@@ -532,6 +535,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0835-image-overlap](https://github.com/HarikareddyKarri123/coding/tree/master/0835-image-overlap) |
 | [0840-magic-squares-in-grid](https://github.com/HarikareddyKarri123/coding/tree/master/0840-magic-squares-in-grid) |
+| [1254-number-of-closed-islands](https://github.com/HarikareddyKarri123/coding/tree/master/1254-number-of-closed-islands) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/HarikareddyKarri123/coding/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/HarikareddyKarri123/coding/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
@@ -575,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/HarikareddyKarri123/coding/tree/master/1254-number-of-closed-islands) |
 | [2685-count-the-number-of-complete-components](https://github.com/HarikareddyKarri123/coding/tree/master/2685-count-the-number-of-complete-components) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/HarikareddyKarri123/coding/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/HarikareddyKarri123/coding/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
