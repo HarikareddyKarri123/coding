@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1096-brace-expansion-ii](https://github.com/HarikareddyKarri123/coding/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/HarikareddyKarri123/coding/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/HarikareddyKarri123/coding/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HarikareddyKarri123/coding/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Tree
 |  |
 | ------- |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3312-sorted-gcd-pair-queries](https://github.com/HarikareddyKarri123/coding/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/HarikareddyKarri123/coding/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/HarikareddyKarri123/coding/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HarikareddyKarri123/coding/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/HarikareddyKarri123/coding/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -392,6 +394,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/HarikareddyKarri123/coding/tree/master/2747-count-zero-request-servers) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/HarikareddyKarri123/coding/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/HarikareddyKarri123/coding/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HarikareddyKarri123/coding/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -425,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0225-implement-stack-using-queues](https://github.com/HarikareddyKarri123/coding/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/HarikareddyKarri123/coding/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/HarikareddyKarri123/coding/tree/master/0387-first-unique-character-in-a-string) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HarikareddyKarri123/coding/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -577,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/HarikareddyKarri123/coding/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/HarikareddyKarri123/coding/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HarikareddyKarri123/coding/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/HarikareddyKarri123/coding/tree/master/3525-find-x-value-of-array-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/HarikareddyKarri123/coding/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -630,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/HarikareddyKarri123/coding/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HarikareddyKarri123/coding/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Minimax
 |  |
 | ------- |
@@ -669,4 +675,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/HarikareddyKarri123/coding/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/HarikareddyKarri123/coding/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
